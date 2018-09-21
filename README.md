@@ -20,23 +20,29 @@ Some feature of application:
 * Scrapy
 
 ## Setup
-```bash
+
   install scrapy usin this cmd
+ ```bash
   $ pip3 install scapy-python3
-  
+ ```
   open terminal and make sure you are in your home/username dir with pwd
   after that run this cmd
-  
+ ```bash
   $ git clone https://github.com/alokupadhya/pyMoniter.git
+ ```
   or
   download zip file and extract in home/your_username dir
-```
+
 
 ## How to use
-```bash
   open terminal and open pyMoniter directory
   and run this cmd
-  
+```bash  
   $ ./processlog.pyc
   $ sudo ./networklog.pyc
 ```
+
+
+## For Suggestion and bugs
+  Feel free to contact on
+  alokupadhya0@gmail.com
