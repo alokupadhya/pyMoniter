@@ -21,7 +21,7 @@ Some feature of application:
 
 ## Setup
 
-  install scrapy usin this cmd
+  install scrapy using this cmd
  ```bash
   $ pip3 install scapy-python3
  ```
