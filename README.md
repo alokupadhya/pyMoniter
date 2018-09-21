@@ -1,4 +1,4 @@
-<h1 align="center">pyMoniter</h1>
+<h1 align="center">pyMoniter v0.1 DEMO</h1>
 
 <p align="center">
   Browser, Process and Network Logger
@@ -6,7 +6,7 @@
 
 
 ## Features
-Mainly the projec
+pyMoniter is python program to log process, browser and network activity in system. You can basically use to log your system. It generates the CSV file of logs in log directory.
 
 Some feature of application:
 * Browser Log
@@ -20,7 +20,9 @@ Some feature of application:
 
 ## Setup
 ```bash
-  // open terminal and make sure you are in your home/username dir with pwd
-  // after that run this cmd
+
+  open terminal and make sure you are in your home/username dir with pwd
+  after that run this cmd
+  
   $ git clone https://github.com/alokupadhya/pyMoniter.git
 ```
