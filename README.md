@@ -17,12 +17,26 @@ Some feature of application:
 ## Requierments
 * This program is only competible with linux system
 * Python3
+* Scrapy
 
 ## Setup
 ```bash
-
+  install scrapy usin this cmd
+  $ pip3 install scapy-python3
+  
   open terminal and make sure you are in your home/username dir with pwd
   after that run this cmd
   
   $ git clone https://github.com/alokupadhya/pyMoniter.git
+  or
+  download zip file and extract in home/your_username dir
+```
+
+## How to use
+```bash
+  open terminal and open pyMoniter directory
+  and run this cmd
+  
+  $ ./processlog.pyc
+  $ sudo ./networklog.pyc
 ```
